@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/movie_ver1.git/static/css/main.af5621c6.css",
-    "main.js": "/movie_ver1.git/static/js/main.5ac42a2d.js",
-    "index.html": "/movie_ver1.git/index.html",
-    "main.af5621c6.css.map": "/movie_ver1.git/static/css/main.af5621c6.css.map",
-    "main.5ac42a2d.js.map": "/movie_ver1.git/static/js/main.5ac42a2d.js.map"
+    "main.css": "/movie_ver1/static/css/main.af5621c6.css",
+    "main.js": "/movie_ver1/static/js/main.5ac42a2d.js",
+    "index.html": "/movie_ver1/index.html",
+    "main.af5621c6.css.map": "/movie_ver1/static/css/main.af5621c6.css.map",
+    "main.5ac42a2d.js.map": "/movie_ver1/static/js/main.5ac42a2d.js.map"
   },
   "entrypoints": [
     "static/css/main.af5621c6.css",
