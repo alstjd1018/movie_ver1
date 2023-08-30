@@ -51,5 +51,5 @@
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": "error"
   },
-  "homepage": "https://github.com/alstjd1018/Movie_App_Ver1"
+  "homepage": "https://github.com/alstjd1018/Movie_App_Ver1.git"
 }
